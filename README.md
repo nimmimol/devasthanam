@@ -1,0 +1,2 @@
+# devasthanam
+globify-devasthanam
